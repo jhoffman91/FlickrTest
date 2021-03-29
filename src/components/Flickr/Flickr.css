@@ -1,0 +1,41 @@
+body {
+    background-color: grey;
+}
+
+.App {
+    height: max-content;
+}
+
+.content {
+    margin: 0 200px;
+    padding: 20px 0;
+}
+
+table {
+    border: solid 1px black;
+    width: 100%;
+    margin-top: 20px;
+}
+
+a {
+    width: 100%;
+}
+
+tr:hover {
+    background-color: lightgrey;
+    box-shadow: 20px;
+}
+td:hover {
+    background-color: ghostwhite;
+}
+.image {
+    height: 100px;
+}
+.center {
+    width: 100%;
+    height: 100%;
+}
+section {
+    height: 100;
+    background-color: gainsboro;
+}
